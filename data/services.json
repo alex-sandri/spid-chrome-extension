@@ -1,0 +1,29 @@
+{
+  "it": {
+    "difesa": {
+      "concorsi": {
+        "url": "https://spid.difesa.it/SPIDLogin/"
+      }
+    },
+    "gov": {
+      "gdf": {
+        "concorsi": {
+          "url": "https://gdf.spidgateway.infocert.it/gateway/login?TARGET=https%3a%2f%2fconcorsi.gdf.gov.it%2fSso%2fSpid"
+        }
+      },
+      "inpa": {
+        "www": {
+          "url": "https://portale.inpa.gov.it/ui/public-area/login"
+        }
+      }
+    },
+    "inps": {
+      "www": {
+        "url": "https://serviziweb2.inps.it/PassiWeb/jsp/spid/loginSPID.jsp?uri=https%3a%2f%2fservizi2.inps.it%2fservizi%2fareariservata%2f&S=S"
+      }
+    },
+    "sanitakmzerofascicolo": {
+      "url": "https://sanitakmzero.azero.veneto.it/"
+    }
+  }
+}
